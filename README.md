@@ -17,8 +17,6 @@
     <li>Desktop</li>
     <img src="screenshot/desktop.png" width="800">
     
-    <br>
-    
     <li>Mobile</li>
     <img src="screenshot/mobile.png" height="800">
 </ul>
