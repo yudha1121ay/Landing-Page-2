@@ -10,6 +10,7 @@
     <li>Bootstrap v4.6.0</li>
     <li>jQuery</li>
     <li>Font Monserrat</li>
+    <li>Ilustrasi dari <a href="https://www.drawkit.io">Drawkit</a></li>
 </ul></h3>
 
 <h3>Screenshot :</h2>
