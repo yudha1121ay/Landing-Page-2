@@ -3,18 +3,18 @@
 
 <h3>Landing page ini dibuat berdasarkan desain dari user dribbble "Katie Daugherty". <a href="https://dribbble.com/shots/16004637-Landing-Page">Link Design</a></h3>
 
-<h1>Dibuat dengan :<br>
+<h3>Dibuat dengan :<br>
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>Bootstrap v4.6.0</li>
     <li>jQuery</li>
     <li>Font Monserrat</li>
-</ul></h1>
+</ul></h3>
 
-<h2>Screenshot :</h2>
+<h3>Screenshot :</h3>
 <ul>
-    <li>Desktop</li?
+    <li>Desktop</li>
     <img src="screenshot/desktop.png" width="400">
     
     <br>
